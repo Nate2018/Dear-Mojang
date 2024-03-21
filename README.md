@@ -10,7 +10,7 @@ Eagtek are hoping you can assist them in getting in contact with an active Mojan
 
 The goal of eaglercraft was never to pirate the game, it was just to port it to the browser, and the years of time and effort put into the port should not be killed off so violently. we ask that you contact us at the email above to talk things out and figure out a future for eagler. Thank you for reading <3
 
-## My Note,
+## Samdan9's Note,
 
 I am the developer of NostalgiaCraft, I am 15 and in 9th grade on my way to my early programming career... Mojang... please consider the request of Lax1dude? He even said in his statement he did not want to pirate the game in the first place. This project has been the training ground for me to learn a bit more about Java and mapping and honestly may even be a great opportunity to encourage young developers like me to start off with something new! 
 Please Mojang... there is no need to be biased, please talk to your fans about a potential solution to the problem instead of adding more fuel to the fire!
